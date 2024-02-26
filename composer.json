@@ -1,0 +1,19 @@
+{
+    "name": "beyonds/beyonds_mail_templates",
+    "authors": [
+        {
+            "name": "Beyonds",
+            "email": "contact@beyonds.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "sendinblue/api-v3-sdk": "5.0.1"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "prepend-autoloader": false
+    },
+    "type": "prestashop-module",
+    "author": "Beyonds"
+}
